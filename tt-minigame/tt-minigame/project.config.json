@@ -1,0 +1,11 @@
+{
+  "appid": "tt29515fecb72b397a02",
+  "projectname": "Hexa Block - Puzzle Game",
+
+   "packOptions": {
+    "ignore": [
+      { "type": "folder", "value": "native" },
+      { "type": "folder", "value": "__MACOSX" }
+    ]
+  }
+}

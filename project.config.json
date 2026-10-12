@@ -1,0 +1,23 @@
+{
+    "appid": "ttbdddcb6022c7295a07",
+    "projectname": "Hexa Block - Puzzle Game",
+    "unity": {
+        "build": {
+            "webgl": "E:\\Unity\\QuanMingFangKuai\\tt-minigame\\webgl_package-20260109_103339.zip",
+            "native": {
+                "il2cpp": "",
+                "apk": "",
+                "fullApk": ""
+            },
+            "instantGame": ""
+        },
+        "publishType": "2",
+        "starkSdkVersion": "Without StarkSDK",
+        "unityToolsVersion": "",
+        "unityEngineVersion": "2022.3.48f1c1",
+        "arch": ""
+    },
+    "setting": {
+        "urlCheck": true
+    }
+}
