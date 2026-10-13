@@ -6,7 +6,7 @@ const unityNamespace = {
       // DATA_CDN + dataFileSubPrefix + datafilename
       dataFileSubPrefix:'',
       optimizeWebGLMemoryInBackground: true,
-      bootConfig: 'player-connection-ip=192.168.1.8',
+      bootConfig: 'player-connection-ip=192.168.1.4',
 	  UnityModule: null,
 }
 GameGlobal.unityNamespace = GameGlobal.unityNamespace || unityNamespace;

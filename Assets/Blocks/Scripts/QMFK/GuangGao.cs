@@ -10,9 +10,9 @@ using static TTSDK.TTAndroidCallJsInterface;
 
 public class GuangGao : Singleton<GuangGao>
 {
-    private static string XPId = "7k59bjl1hg9kf1e08f";
+    private static string XPId = "e0hejemmmr72i95ogv";
     private static string BannerId = "3ijaj0cb780o32x3np";
-    private static string rewardId = "20gi8fgaghdbi3o74m";
+    private static string rewardId = "61675adgim043ibddh";
 
     TTInterstitialAd m_InterAdIns = null;
     TTBannerAd m_bannerAdIns = null;
